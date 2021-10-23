@@ -1,1 +1,1 @@
-[Example](Galtonboard_example.gif)
+![Example](Galtonboard_example.gif)
